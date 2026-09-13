@@ -1,22 +1,25 @@
 ### Gioele Massi
 
-Sviluppo **app, automazioni e tool** in Italia, spesso con assistenza AI per ricerca, codice e documentazione. Preferisco progetti concreti, scope chiaro e risultati onesti (anche parziali).
+Costruisco **software che serve a qualcosa di reale**: app, automazioni e stack self-hosted, spesso con **agenti AI** nel flusso di lavoro. Quando serve, chiudo il cerchio sul **fisico** (sensori, prototipi, collaudi) — non mi fermo al solo codice.
 
-#### Focus su GitHub
-- **Software & automazioni** — Python, scripting, bot, pipeline locali
-- **App / web** — piccoli prodotti pubblici (es. [Funghi Meteo](https://gioelemassi.github.io/funghi-meteo/))
-- **Self-hosting & privacy** — stack locali documentati (es. NVR Frigate in ricette pubbliche)
-- **Metodo** — checklist e report di collaudo riusabili ([prototype-qa-notes](https://github.com/gioelemassi/prototype-qa-notes))
-- **AI nel flusso di lavoro** — uso agenti per accelerare; responsabilità e decisioni restano umane
+#### Cosa faccio (in pratica)
+- **Prodotti e tool** — app/web e automazioni utili (es. [Funghi Meteo](https://gioelemassi.github.io/funghi-meteo/): mappe + meteo)
+- **AI nel processo** — uso agenti per ricercare, scrivere codice, documentare e tenere procedure; le decisioni e la responsabilità restano umane
+- **Self-hosting** — servizi locali documentati, orientati alla privacy (es. [local-nvr-recipes](https://github.com/gioelemassi/local-nvr-recipes))
+- **Ponte software ↔ hardware** — quando un’idea tocca sensori o pezzi fisici: integrazione a bassa tensione, prove, reality check
+- **Metodo** — scope chiaro, criteri di accettazione, report anche se l’esito è partial/fail ([prototype-qa-notes](https://github.com/gioelemassi/prototype-qa-notes))
 
-#### Anche (ma non il centro della vetrina)
-Hardware a bassa tensione, CAD/CNC e prove fisiche su prototipi — utili quando il software tocca il mondo reale. Non offro lavori su rete elettrica né certificazioni.
+#### Stack (indicativo)
+`Python` · `Android` · `Docker` · automazioni / bot · CAD/CNC quando il pezzo esiste davvero · Arduino/ESP solo se il progetto lo richiede
+
+#### Cosa non prometto
+ML engineer da lab, lavori su rete elettrica, certificazioni di prodotto, “AI magica” senza limiti.
 
 #### In evidenza
 | Progetto | Cosa mostra |
 |---|---|
-| [funghi-meteo](https://github.com/gioelemassi/funghi-meteo) | Prodotto pubblico (mappe / meteo) |
-| [local-nvr-recipes](https://github.com/gioelemassi/local-nvr-recipes) | Self-hosting privacy-first (Docker) |
-| [prototype-qa-notes](https://github.com/gioelemassi/prototype-qa-notes) | Documentazione e metodo di collaudo |
+| [funghi-meteo](https://github.com/gioelemassi/funghi-meteo) | Prodotto pubblico (software + dominio reale) |
+| [local-nvr-recipes](https://github.com/gioelemassi/local-nvr-recipes) | Self-hosting privacy-first |
+| [prototype-qa-notes](https://github.com/gioelemassi/prototype-qa-notes) | Metodo di collaudo (anche fisico) |
 
 Altri lavori restano privati. Per collaborazioni: apri una issue su un repo pubblico.

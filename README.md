@@ -19,5 +19,7 @@ Lavori su rete elettrica, certificazioni di prodotto/sicurezza, sorveglianza occ
 | Progetto | Cosa è |
 |---|---|
 | [funghi-meteo](https://github.com/gioelemassi/funghi-meteo) | Mappe microclimatiche dei versanti (sito pubblico) |
+| [prototype-qa-notes](https://github.com/gioelemassi/prototype-qa-notes) | Template e checklist per collaudo prototipi LV |
+| [local-nvr-recipes](https://github.com/gioelemassi/local-nvr-recipes) | NVR locale Frigate+Docker (ricette privacy-first) |
 
 Altri lavori restano privati o in corso. Per collaborazioni: apri una issue sul repo pubblico.

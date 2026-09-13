@@ -1,25 +1,22 @@
 ### Gioele Massi
 
-Operatore tecnico freelance in **Italia**. Lavoro hands-on su prototipi e sistemi delimitati: eseguo, osservo, documento — anche quando il risultato è parziale o negativo.
+Sviluppo **app, automazioni e tool** in Italia, spesso con assistenza AI per ricerca, codice e documentazione. Preferisco progetti concreti, scope chiaro e risultati onesti (anche parziali).
 
-#### Cosa faccio
-- **Hardware a bassa tensione** — Arduino / ESP, sensori e moduli da datasheet: cablaggio, saldatura, misure, prove funzionali
-- **QA su prototipi** — test delimitati, isolamento guasti, esiti pass / fail / partial / inconclusive
-- **Reality check** — confronto tra piano digitale e vincoli fisici, costi, manutenzione, stop conditions
-- **Fabbricazione digitale** — CAD 3D funzionale, CAM e piccole iterazioni CNC / stampa 3D (senza claim industriali)
-- **Software / automazioni** — app e tool utili (es. [Funghi Meteo](https://gioelemassi.github.io/funghi-meteo/))
+#### Focus su GitHub
+- **Software & automazioni** — Python, scripting, bot, pipeline locali
+- **App / web** — piccoli prodotti pubblici (es. [Funghi Meteo](https://gioelemassi.github.io/funghi-meteo/))
+- **Self-hosting & privacy** — stack locali documentati (es. NVR Frigate in ricette pubbliche)
+- **Metodo** — checklist e report di collaudo riusabili ([prototype-qa-notes](https://github.com/gioelemassi/prototype-qa-notes))
+- **AI nel flusso di lavoro** — uso agenti per accelerare; responsabilità e decisioni restano umane
 
-#### Come lavoro
-Incarichi **progetto per progetto**, con scope scritto, limiti di sicurezza e criteri di accettazione. Uso AI per ricerca, procedure e documentazione; **esecuzione fisica e responsabilità restano umane**.
-
-#### Cosa non offro
-Lavori su rete elettrica, certificazioni di prodotto/sicurezza, sorveglianza occulta, liability illimitata.
+#### Anche (ma non il centro della vetrina)
+Hardware a bassa tensione, CAD/CNC e prove fisiche su prototipi — utili quando il software tocca il mondo reale. Non offro lavori su rete elettrica né certificazioni.
 
 #### In evidenza
-| Progetto | Cosa è |
+| Progetto | Cosa mostra |
 |---|---|
-| [funghi-meteo](https://github.com/gioelemassi/funghi-meteo) | Mappe microclimatiche dei versanti (sito pubblico) |
-| [prototype-qa-notes](https://github.com/gioelemassi/prototype-qa-notes) | Template e checklist per collaudo prototipi (bassa tensione / IoT) |
-| [local-nvr-recipes](https://github.com/gioelemassi/local-nvr-recipes) | NVR locale Frigate+Docker (ricette privacy-first) |
+| [funghi-meteo](https://github.com/gioelemassi/funghi-meteo) | Prodotto pubblico (mappe / meteo) |
+| [local-nvr-recipes](https://github.com/gioelemassi/local-nvr-recipes) | Self-hosting privacy-first (Docker) |
+| [prototype-qa-notes](https://github.com/gioelemassi/prototype-qa-notes) | Documentazione e metodo di collaudo |
 
-Altri lavori restano privati o in corso. Per collaborazioni: apri una issue sul repo pubblico.
+Altri lavori restano privati. Per collaborazioni: apri una issue su un repo pubblico.

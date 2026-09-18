@@ -1,4 +1,4 @@
-### Gioele Massi
+### Joe Rock
 
 Tecnico con esperienza sul **concreto** (prototipi, collaudi, fabbricazione) e oggi anche su **software pubblico**: app, automazioni, self-hosting. Stesso metodo di sempre — scope chiaro, prove, limiti espliciti — applicato anche al codice.
 
@@ -17,5 +17,6 @@ Anni di pratica su campo e banco. Uso anche strumenti recenti per andare più ve
 | [funghi-meteo](https://github.com/gioelemassi/funghi-meteo) | Prodotto software su un dominio reale |
 | [local-nvr-recipes](https://github.com/gioelemassi/local-nvr-recipes) | Self-hosting documentato |
 | [prototype-qa-notes](https://github.com/gioelemassi/prototype-qa-notes) | Collaudo + strumenti/capacità (Arduino, ESP, CAD/CNC…) |
+| [local-skill-router](https://github.com/gioelemassi/local-skill-router) | Tool open source: skill routing locale per coding agent |
 
 Altri lavori restano privati. Per collaborazioni: apri una issue su un repo pubblico.

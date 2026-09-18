@@ -16,7 +16,7 @@ New chapter: shipping code and agent tooling (not only boards). Typed judgment, 
 
 Long stretch of **solo hardware work**: datasheets, forums, broken boards, and whatever tools were on the table. **Not a software role** then — mechanics, sensing, low-voltage, and physical QA. Same buyer label: **prototype QA & guided low-voltage hardware**; slower feedback loops.
 
-- **CAD → plastic → metal** on an early health/mobility sensing device (load cells; BLE so a collaborator’s phone app could take the data); many physical trials; no certified-device claim
+- Early health/mobility sensing device: 3D design, plastic prototypes, then metal parts from a machine shop; load cells; Bluetooth so a collaborator’s phone app could take the data; many physical trials; no certified-device claim
 - **Low-voltage builds** — plug-in supplies, enclosures, sensor and Wi‑Fi nodes (not licensed mains / electrician work)
 - Early **PCB sketches** with Fritzing / Eagle (shared with collaborators where noted in the record)
 - **Outdoor sensing & remote monitoring** prototypes (MCU/SBC, env sensors, logging, cellular-era uplinks) — hardware/capability-level only

@@ -1,22 +1,29 @@
 ### Joe Rock
 
-Hands-on technician (prototypes, bring-up, fabrication) who also ships **public software**: apps, automation, self-hosting. Same method as always — clear scope, evidence, explicit limits — applied to code too.
+Hands-on builder: hardware, bring-up, and (lately) public software for coding agents & self-hosting.
 
-#### What I do
-- **Software** — apps, scripts, automation (e.g. [Funghi Meteo](https://rockjoel.github.io/funghi-meteo/))
-- **Self-hosting** — documented local stacks ([local-nvr-recipes](https://github.com/rockjoel/local-nvr-recipes))
-- **Method & technical background** — checklists, reports, tools/skills ([prototype-qa-notes](https://github.com/rockjoel/prototype-qa-notes))
-- **Bridge to hardware** — when needed: sensors, low voltage, reality-check on the real part
+## Now — post-AI (2025–)
 
-#### How I work
-Years on the bench and in the field. I also use modern tools to move faster on research and code; they don’t replace experience or responsibility.
+Tools and products shaped with coding agents, typed judgment (e.g. Jev-inspired routing), and a hard rule: **thin always-on, prove it works.**
 
-#### Highlights
-| Project | What it shows |
+| Project | What it is |
 |---|---|
-| [funghi-meteo](https://github.com/rockjoel/funghi-meteo) | Real-domain software product |
-| [local-skill-router](https://github.com/rockjoel/local-skill-router) | Open-source local skill router for coding agents (Jev-inspired; judge swappable) |
-| [local-nvr-recipes](https://github.com/rockjoel/local-nvr-recipes) | Documented self-hosting |
-| [prototype-qa-notes](https://github.com/rockjoel/prototype-qa-notes) | Bring-up + tools/skills (Arduino, ESP, CAD/CNC…) |
+| **[local-skill-router](https://github.com/rockjoel/local-skill-router)** | Open-source **skill router** for coding agents: pick one skill or `none`. Local-first; optional swappable judge. Inspired by TypeSafe Jev — **not** an official Jev product. |
+| [funghi-meteo](https://github.com/rockjoel/funghi-meteo) | Public site for a real-domain map product ([live](https://rockjoel.github.io/funghi-meteo/)) |
+| [local-nvr-recipes](https://github.com/rockjoel/local-nvr-recipes) | Sanitized Frigate + Docker recipes (privacy-first examples) |
 
-Other work stays private. For collabs: open an issue on a public repo.
+## Before — pre-AI craft
+
+Years on the bench: prototypes, sensors, low voltage, fabrication, CAD/CNC. Same habits — clear scope, evidence, explicit limits — now applied to code too.
+
+| Project | What it is |
+|---|---|
+| [prototype-qa-notes](https://github.com/rockjoel/prototype-qa-notes) | Bring-up / QA templates + technical background (Arduino, ESP, CAD/CNC…) |
+
+## How I work
+
+- Prefer small public artifacts over giant private dumps  
+- Agents accelerate research and code; they don’t replace responsibility  
+- Other work stays private  
+
+Collabs: open an issue on a public repo.
